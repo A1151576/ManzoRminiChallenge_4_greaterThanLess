@@ -1,0 +1,45 @@
+C:\Users\blayz\OneDrive\Documents\codestack wk 1\homework\mini4greater_than_less_than\obj\Debug\net6.0\mini4greater_than_less_than.csproj.AssemblyReference.cache
+C:\Users\blayz\OneDrive\Documents\codestack wk 1\homework\mini4greater_than_less_than\obj\Debug\net6.0\mini4greater_than_less_than.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blayz\OneDrive\Documents\codestack wk 1\homework\mini4greater_than_less_than\obj\Debug\net6.0\mini4greater_than_less_than.AssemblyInfoInputs.cache
+C:\Users\blayz\OneDrive\Documents\codestack wk 1\homework\mini4greater_than_less_than\obj\Debug\net6.0\mini4greater_than_less_than.AssemblyInfo.cs
+C:\Users\blayz\OneDrive\Documents\codestack wk 1\homework\mini4greater_than_less_than\obj\Debug\net6.0\mini4greater_than_less_than.csproj.CoreCompileInputs.cache
+C:\Users\blayz\OneDrive\Documents\codestack wk 1\homework\mini4greater_than_less_than\bin\Debug\net6.0\mini4greater_than_less_than.exe
+C:\Users\blayz\OneDrive\Documents\codestack wk 1\homework\mini4greater_than_less_than\bin\Debug\net6.0\mini4greater_than_less_than.deps.json
+C:\Users\blayz\OneDrive\Documents\codestack wk 1\homework\mini4greater_than_less_than\bin\Debug\net6.0\mini4greater_than_less_than.runtimeconfig.json
+C:\Users\blayz\OneDrive\Documents\codestack wk 1\homework\mini4greater_than_less_than\bin\Debug\net6.0\mini4greater_than_less_than.dll
+C:\Users\blayz\OneDrive\Documents\codestack wk 1\homework\mini4greater_than_less_than\bin\Debug\net6.0\mini4greater_than_less_than.pdb
+C:\Users\blayz\OneDrive\Documents\codestack wk 1\homework\mini4greater_than_less_than\obj\Debug\net6.0\mini4greater_than_less_than.dll
+C:\Users\blayz\OneDrive\Documents\codestack wk 1\homework\mini4greater_than_less_than\obj\Debug\net6.0\refint\mini4greater_than_less_than.dll
+C:\Users\blayz\OneDrive\Documents\codestack wk 1\homework\mini4greater_than_less_than\obj\Debug\net6.0\mini4greater_than_less_than.pdb
+C:\Users\blayz\OneDrive\Documents\codestack wk 1\homework\mini4greater_than_less_than\obj\Debug\net6.0\mini4greater_than_less_than.genruntimeconfig.cache
+C:\Users\blayz\OneDrive\Documents\codestack wk 1\homework\mini4greater_than_less_than\obj\Debug\net6.0\ref\mini4greater_than_less_than.dll
+C:\Users\blayz\OneDrive\Documents\Codestack_week1\homework\mini4greater_than_less_than\bin\Debug\net6.0\mini4greater_than_less_than.exe
+C:\Users\blayz\OneDrive\Documents\Codestack_week1\homework\mini4greater_than_less_than\bin\Debug\net6.0\mini4greater_than_less_than.deps.json
+C:\Users\blayz\OneDrive\Documents\Codestack_week1\homework\mini4greater_than_less_than\bin\Debug\net6.0\mini4greater_than_less_than.runtimeconfig.json
+C:\Users\blayz\OneDrive\Documents\Codestack_week1\homework\mini4greater_than_less_than\bin\Debug\net6.0\mini4greater_than_less_than.dll
+C:\Users\blayz\OneDrive\Documents\Codestack_week1\homework\mini4greater_than_less_than\bin\Debug\net6.0\mini4greater_than_less_than.pdb
+C:\Users\blayz\OneDrive\Documents\Codestack_week1\homework\mini4greater_than_less_than\obj\Debug\net6.0\mini4greater_than_less_than.csproj.AssemblyReference.cache
+C:\Users\blayz\OneDrive\Documents\Codestack_week1\homework\mini4greater_than_less_than\obj\Debug\net6.0\mini4greater_than_less_than.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blayz\OneDrive\Documents\Codestack_week1\homework\mini4greater_than_less_than\obj\Debug\net6.0\mini4greater_than_less_than.AssemblyInfoInputs.cache
+C:\Users\blayz\OneDrive\Documents\Codestack_week1\homework\mini4greater_than_less_than\obj\Debug\net6.0\mini4greater_than_less_than.AssemblyInfo.cs
+C:\Users\blayz\OneDrive\Documents\Codestack_week1\homework\mini4greater_than_less_than\obj\Debug\net6.0\mini4greater_than_less_than.csproj.CoreCompileInputs.cache
+C:\Users\blayz\OneDrive\Documents\Codestack_week1\homework\mini4greater_than_less_than\obj\Debug\net6.0\mini4greater_than_less_than.dll
+C:\Users\blayz\OneDrive\Documents\Codestack_week1\homework\mini4greater_than_less_than\obj\Debug\net6.0\refint\mini4greater_than_less_than.dll
+C:\Users\blayz\OneDrive\Documents\Codestack_week1\homework\mini4greater_than_less_than\obj\Debug\net6.0\mini4greater_than_less_than.pdb
+C:\Users\blayz\OneDrive\Documents\Codestack_week1\homework\mini4greater_than_less_than\obj\Debug\net6.0\mini4greater_than_less_than.genruntimeconfig.cache
+C:\Users\blayz\OneDrive\Documents\Codestack_week1\homework\mini4greater_than_less_than\obj\Debug\net6.0\ref\mini4greater_than_less_than.dll
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\Homework\RmanzoMini4Git\bin\Debug\net6.0\mini4greater_than_less_than.exe
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\Homework\RmanzoMini4Git\bin\Debug\net6.0\mini4greater_than_less_than.deps.json
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\Homework\RmanzoMini4Git\bin\Debug\net6.0\mini4greater_than_less_than.runtimeconfig.json
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\Homework\RmanzoMini4Git\bin\Debug\net6.0\mini4greater_than_less_than.dll
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\Homework\RmanzoMini4Git\bin\Debug\net6.0\mini4greater_than_less_than.pdb
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\Homework\RmanzoMini4Git\obj\Debug\net6.0\mini4greater_than_less_than.csproj.AssemblyReference.cache
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\Homework\RmanzoMini4Git\obj\Debug\net6.0\mini4greater_than_less_than.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\Homework\RmanzoMini4Git\obj\Debug\net6.0\mini4greater_than_less_than.AssemblyInfoInputs.cache
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\Homework\RmanzoMini4Git\obj\Debug\net6.0\mini4greater_than_less_than.AssemblyInfo.cs
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\Homework\RmanzoMini4Git\obj\Debug\net6.0\mini4greater_than_less_than.csproj.CoreCompileInputs.cache
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\Homework\RmanzoMini4Git\obj\Debug\net6.0\mini4greater_than_less_than.dll
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\Homework\RmanzoMini4Git\obj\Debug\net6.0\refint\mini4greater_than_less_than.dll
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\Homework\RmanzoMini4Git\obj\Debug\net6.0\mini4greater_than_less_than.pdb
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\Homework\RmanzoMini4Git\obj\Debug\net6.0\mini4greater_than_less_than.genruntimeconfig.cache
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\Homework\RmanzoMini4Git\obj\Debug\net6.0\ref\mini4greater_than_less_than.dll
